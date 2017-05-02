@@ -8,6 +8,9 @@ Description: This package generates random assignments for a secret santa gift
     exchange. It incorporates couples so that significant others are not assigned
     to each other. Using the mailR package, it automatically sends emails to each
     participant to notify them of who they should give a gift to.
+Imports: devtools,
+         mailR
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
+RoxygenNote: 6.0.1.9000
