@@ -1,0 +1,13 @@
+Package: giftR
+Type: Package
+Title: A Package to Assign & Notify Secret Santas
+Version: 0.1.0
+Author: Tim Szewczyk
+Maintainer: Tim Szewczyk <tim.szewczyk@gmail.com>
+Description: This package generates random assignments for a secret santa gift
+    exchange. It incorporates couples so that significant others are not assigned
+    to each other. Using the mailR package, it automatically sends emails to each
+    participant to notify them of who they should give a gift to.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
